@@ -47,14 +47,3 @@ Feature Importance: 음악의 감정 수치와 오디오 특징 중 어떤 요�
 Algorithm Optimization: 단순 추천에서 나아가 Artist Penalty 기법을 도입하여 추천의 다양성을 확보하고 사용자 만족도를 높였습니다.  
 Visual Analysis: 상관관계 히트맵 및 스캐터 플롯을 통해 모델의 타당성을 시각적으로 검증했습니다.  
 
-  
-├── 00_EDA_&_Preprocessing/  
-├── 01_Single_Model/          # 1차 분석 관련 파일들  
-│   ├── plots/                # 결과 이미지 (png, pdf)  
-│   └── src/                  # R 스크립트 (.R)  
-├── 02_Multi_Model/           # 2차 분석 및 추가 실험  
-│   ├── baseline/             # 기준 모델 코드 및 결과  
-│   └── experiments/          # Top-N, Re-rank 등 실험 코드  
-├── data/                     # Kaggle 데이터 링크  
-└── README.md                 # 프로젝트 총괄 설명  
-
