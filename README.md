@@ -47,3 +47,13 @@ Feature Importance: 음악의 감정 수치와 오디오 특징 중 어떤 요�
 Algorithm Optimization: 단순 추천에서 나아가 Artist Penalty 기법을 도입하여 추천의 다양성을 확보하고 사용자 만족도를 높였습니다.  
 Visual Analysis: 상관관계 히트맵 및 스캐터 플롯을 통해 모델의 타당성을 시각적으로 검증했습니다.  
 
+
+# 👥  Role  
+- **Me**: **Modeling & Optimization**
+  - 1차 단일 모델 구축 및 확률 분포 분석 (`Step 1~3`)
+  - 2차 다중 모델 구축 및 추천 시스템 구현
+  - 추천 알고리즘 고도화 (Artist Penalty 기반 Re-ranking 모델 설계)
+  - 다중 모델 실험(Similarity Metric, Top-N) 및 성능 비교 시각화
+- **Others**
+  - 데이터 수집, 전처리 및 초기 EDA
+  - 최종 발표 자료 구성
